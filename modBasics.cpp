@@ -1,3 +1,4 @@
+//  "effective ways to maintain sanity while using modulo" by Jyotiraditya Samal
 #include <bits/stdc++.h>
 
 using namespace std;

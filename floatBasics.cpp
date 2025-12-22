@@ -1,3 +1,5 @@
+// "float operations & floating point precision discrepancy"  by Jyotiraditya Samal
+
 #include <bits/stdc++.h>
 
 using namespace std;

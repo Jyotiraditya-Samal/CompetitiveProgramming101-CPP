@@ -1,3 +1,5 @@
+//  "Basic IO optimizations" by Jyotiraditya Samal
+
 #include<bits/stdc++.h>    //   includes entire standard library
 
 using namespace std ;
